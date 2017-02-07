@@ -8,7 +8,7 @@ In this implememtation I have used to UI objects. A dummy label which is a UIlab
 
 Here is a sneek peek to the marquee effect.
 
-
+![App screencast](https://github.com/virajpadte/Simple-Marquee-iOS/tree/master/Simple-marquee-iOS.gif)
 
 
 References:
